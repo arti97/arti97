@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/mridushi8/Car-Pooling-App/commit/ae5cce168c8fafa7fcf993d785e46e75ac90cc8f\"><strong>a</strong>e5cce168c8fafa7fcf993d785e46e75ac90cc8f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/abbd370946bb32b37ec3c85c53245defba77ae7b\"><strong>ab</strong>bd370946bb32b37ec3c85c53245defba77ae7b</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 60 times)\n2. added (used 35 times)\n3. merge (used 15 times)\n4. add (used 12 times)\n5. pull (used 11 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arti97/overhead-flight-tracker/commit/2399e865d0c5356f3809ababaa7d56c0c2e4018b\">2399e86</a>: Fix: Rotate flight acc to heading + cleanups\n- <a href=\"https://github.com/arti97/overhead-flight-tracker/commit/a4bbf1b8b33dea5410bebd71e5ef60ee71be45a8\">a4bbf1b</a>: Fix: Rotate flight acc to heading + cleanups",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arti97/overhead-flight-tracker/commit/3641631f30a58c9490d6fcc18bd63272349accb0\">3641631</a>: fix: Updated demo video links in README\n- <a href=\"https://github.com/arti97/overhead-flight-tracker/commit/25d603baa33e23ac68c30db0b02d65f39cd54476\">25d603b</a>: fix: Updated demo video links in README\n- <a href=\"https://github.com/arti97/overhead-flight-tracker/commit/673113a71da8ccad816a3e86196d5c578359ba45\">673113a</a>: fix: update README",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/65609a4070f6791037962c32a018e26bfa4845b6\">65609a4</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/arti97/overhead-flight-tracker/commit/673113a71da8ccad816a3e86196d5c578359ba45\">673113a</a>\n- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/b64d7e0ed9615efe58fa8b997a846ca20ba41255\">b64d7e0</a>\n- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/6aaa18b67b3ea495fb7225ab072c03ebae779e6b\">6aaa18b</a>\n- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/400617ff02702af2ddab1ef90f9263306d2b8d03\">400617f</a>\n- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/06b5179d348303390a61b34d7dce3465660c9403\">06b5179</a>\n- <a href=\"https://github.com/GunjanSharma1512/camperaApp/commit/abbd370946bb32b37ec3c85c53245defba77ae7b\">abbd370</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
